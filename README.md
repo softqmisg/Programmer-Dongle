@@ -1,2 +1,2 @@
 # Programmer Dongle
- Prohrammer for STM32/STM8
+ Programmer for STM32/STM8
